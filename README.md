@@ -6,8 +6,9 @@
   </a>
    
 </div>
-<img src="https://svgshare.com/i/jkY.svg" width="600" height="250" alt="AjImad"/>
-
+<p align="center">
+   <img src="https://svgshare.com/i/jkY.svg" width="600" height="250" alt="AjImad"/>
+</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
