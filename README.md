@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<div id="badges" align="center">
+<div id="badges">
    <a href="https://www.linkedin.com/in/imad-ajbar-09a77720b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <img src="https://komarev.com/ghpvc/?username=AjImad&style=flat-square&color=blue" alt=""/>
+   <img src="https://svgshare.com/i/jkY.svg" alt="AjImad"/>
 </div>
 <div id="header" align="center">
 <!--     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
