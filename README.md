@@ -2,10 +2,11 @@
 
 <br>
 <div id="badges">
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjImad&label=Profile%20views&color=0e75b6&style=flat" alt="AjImad" /> </p>
    <a href="https://www.linkedin.com/in/imad-ajbar-09a77720b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <img src="https://komarev.com/ghpvc/?username=AjImad&style=flat-square&color=blue" alt=""/>
+  
 </div>
 
 <p align="center">
