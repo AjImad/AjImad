@@ -4,14 +4,9 @@
    <a href="https://www.linkedin.com/in/imad-ajbar-09a77720b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <img src="https://svgshare.com/i/jkY.svg" alt="AjImad"/>
+   
 </div>
-<div id="header" align="center">
-<!--     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-    <img src="https://i.ibb.co/WgFcJpZ/Lovepik-com-450098911-A-web-api-interface-flat-illustration.png" width="100%" height="100%"/>
-<!--    <a href="https://lovepik.com/images/png-api.html">Api Png vectors by Lovepik.com</a> -->
-<!-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
-</div>
+<img src="https://svgshare.com/i/jkY.svg" width="600" height="250" alt="AjImad"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
