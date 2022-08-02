@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-   <img src="https://svgshare.com/i/jkY.svg" width="600" height="250" alt="AjImad"/>
-</p>
 <br>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/imad-ajbar-09a77720b/">
@@ -10,6 +7,11 @@
   </a>
    <img src="https://komarev.com/ghpvc/?username=AjImad&style=flat-square&color=blue" alt=""/>
 </div>
+
+<p align="center">
+   <img src="https://svgshare.com/i/jkY.svg" width="600" height="250" alt="AjImad"/>
+</p>
+
 
 
 - 🔭 I’m currently working on ...
