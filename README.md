@@ -39,7 +39,6 @@ My name is AJBAR Imad, and I'm 23 yo Master's Degree Student :
 </div>
 
 <br>
----
 
 ### 🔥: My Stats :
 
