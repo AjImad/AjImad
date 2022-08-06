@@ -12,7 +12,8 @@
 </p>
 
 
-## :boy: My name is AJBAR Imad, and I'm 23 yo Master's Degree Student :
+## 👨‍💻: About Me : 
+My name is AJBAR Imad, and I'm 23 yo Master's Degree Student :
 - 👨🏻‍🎓 Master's Degree Student M2 at Faculty of Science and Technology Tangier
 - 🔭 I'm currently doing an internship as Front end [ReactJS]  developer
 - ⚡ I like taking on challenges and working on projects that push me beyond of my comfort zone,<br>
