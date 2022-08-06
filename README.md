@@ -43,7 +43,8 @@ My name is AJBAR Imad, and I'm 23 yo Master's Degree Student :
 
 ### 🔥: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?AjImad=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjImad&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 
