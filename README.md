@@ -22,7 +22,7 @@ My name is AJBAR Imad, and I'm 23 yo Master's Degree Student :
 
 ### 🛠️: Languages and Tools :
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" style="filter: invert(1)" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" style="filter: invert(1)" title="NextJs" alt="NextJs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40"     height="40"/>&nbsp;
