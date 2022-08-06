@@ -45,7 +45,8 @@ My name is AJBAR Imad, and I'm 23 yo Master's Degree Student :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjImad&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjImad)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjImad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
