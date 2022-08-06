@@ -18,7 +18,7 @@ My name is AJBAR Imad, and I'm 23 yo Master's Degree Student :
 - 🔭 I'm currently doing an internship as Front end [ReactJS]  developer
 - ⚡ I like taking on challenges and working on projects that push me beyond of my comfort zone,<br>
      as well as continuing to learn new languages and development techniques.
-<br>
+
 
 ### 🛠️: Languages and Tools :
 <div>
@@ -37,16 +37,15 @@ My name is AJBAR Imad, and I'm 23 yo Master's Degree Student :
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<br><br>
-
+<br>
 ---
 
 ### 🔥: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjImad&theme=tokyonight)](https://git.io/streak-stats)
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjImad&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjImad&show_icons=true&theme=tokyonight)
 
 
