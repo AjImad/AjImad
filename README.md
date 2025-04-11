@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-   <img src="[https://svgshare.com/i/jkY.svg](https://img.freepik.com/premium-vector/programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767.jpg)" width="600" height="250" alt="AjImad"/>
+   <img src="https://svgshare.com/i/jkY.svg](https://img.freepik.com/premium-vector/programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767.jpg" width="600" height="250" alt="AjImad"/>
 </p>
 
 
