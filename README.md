@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-   <img src="https://img.freepik.com/premium-vector/programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767.jpg" width="600" height="100%" alt="AjImad"/>
+   <img width="1028" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fa61f0f6-12df-4c7b-85f7-988238908774" />
 </p>
 
 
