@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-   <img width="600" alt="Image" src="https://github.com/user-attachments/assets/fa61f0f6-12df-4c7b-85f7-988238908774" />
+  <img src="https://github.com/user-attachments/assets/fa61f0f6-12df-4c7b-85f7-988238908774" width="600" style="border-radius: 12px;" />
 </p>
 
 
